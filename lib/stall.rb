@@ -1,3 +1,4 @@
+require 'car'
 # Stall class that initializes with a unique id, a boolean value for filled, a
 # car_id that will indicate what car is parked in the stall, and a boolean value
 # of whether this given stall is for electric cars or not.

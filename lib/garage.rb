@@ -1,3 +1,5 @@
+require 'stall'
+require 'car'
 # Garage class that initializes with a collection of stalls
 class Garage
   attr_accessor :stalls
